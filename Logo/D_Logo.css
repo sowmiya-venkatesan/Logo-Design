@@ -1,0 +1,56 @@
+/*Background*/
+
+
+position: relative;
+width: 808px;
+height: 632px;
+
+background: 
+linear-gradient(180deg, rgba(0, 0, 0, 0) 
+0%, rgba(0, 0, 0, 0) 0%,
+rgba(0, 0, 0, 0) 0%, 
+rgba(62, 61, 61, 0.04) 16.15%,
+rgba(117, 116, 116, 0) 30.73%,
+rgba(161, 159, 159, 0.24) 42.19%, 
+rgba(216, 215, 215, 0.550677) 67.71%,
+rgba(255, 255, 255, 0.97) 100%);
+
+/* Tie Shape */
+
+
+position: absolute;
+width: 73.16px;
+height: 328.43px;
+left: 284.92px;
+top: 143.57px;
+
+transform: matrix(1, -0.01, 0.01, 1, 0, 0);
+
+/* D curve */
+
+
+position: absolute;
+width: 319.77px;
+height: 198.97px;
+left: 515.66px;
+top: 141px;
+
+background: 
+linear-gradient(180deg, #000000 0%, 
+rgba(11, 11, 11, 0.57) 14.06%, 
+rgba(11, 11, 13, 0.75) 28.16%, 
+rgba(17, 17, 18, 0.95) 61.13%, #050505 97.2%);
+transform: matrix(0.02, 1, -1, 0.02, 0, 0);
+
+
+/* Tie fly rope */
+
+
+position: absolute;
+width: 241.9px;
+height: 238.29px;
+left: 582px;
+top: 234.13px;
+
+background: linear-gradient(270.13deg, rgba(0, 0, 0, 0.98) 0.92%, rgba(34, 35, 41, 0.61) 55.58%, rgba(0, 0, 0, 0.98) 119.18%);
+transform: matrix(-0.94, -0.37, -0.32, 0.93, 0, 0);
